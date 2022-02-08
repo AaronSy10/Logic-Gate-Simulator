@@ -1,0 +1,17 @@
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\bin\Release\Sy_FinalProject.exe.config
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\bin\Release\Sy_FinalProject.exe
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\bin\Release\Sy_FinalProject.pdb
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\obj\Release\Sy_FinalProject.csprojAssemblyReference.cache
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\obj\Release\Sy_FinalProject.Form1.resources
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\obj\Release\Sy_FinalProject.Properties.Resources.resources
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\obj\Release\Sy_FinalProject.UserControlAND.resources
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\obj\Release\Sy_FinalProject.UserControlNAND.resources
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\obj\Release\Sy_FinalProject.UserControlNOR.resources
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\obj\Release\Sy_FinalProject.UserControlNOT.resources
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\obj\Release\Sy_FinalProject.UserControlOR.resources
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\obj\Release\Sy_FinalProject.UserControlXNOR.resources
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\obj\Release\Sy_FinalProject.UserControlXOR.resources
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\obj\Release\Sy_FinalProject.csproj.GenerateResource.cache
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\obj\Release\Sy_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\obj\Release\Sy_FinalProject.exe
+C:\Users\DISCOVERY\source\repos\Sy_FinalProject\Sy_FinalProject\obj\Release\Sy_FinalProject.pdb
